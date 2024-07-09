@@ -1,0 +1,5 @@
+Agregar una descripcion de cada uno
+Nombre
+CIudad
+profesion
+algo adicional
