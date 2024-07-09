@@ -1,5 +1,5 @@
 Agregar una descripcion de cada uno
 Nombre
-CIudad
+Ciudad
 profesion
 algo adicional
