@@ -1,0 +1,5 @@
+Nombre: Yadira Barreto
+Profesion: Ing en Sistemas
+Ciudad: Loja
+Cargo: Analista tecnico
+Desarrollo RPG
